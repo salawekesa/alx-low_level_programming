@@ -1,6 +1,6 @@
 # C PROGRAMMING
 
-<h2></a href=https://alx-intranet.hbtn.io/rltoken/P01aLj9BDfDUOv-y9x82Yw>For information on getting started with C</a></h2>
+<h2><a href=https://alx-intranet.hbtn.io/rltoken/P01aLj9BDfDUOv-y9x82Yw>For information on getting started with C</a></h2>
 
 # Getting started with Betty linter
 
