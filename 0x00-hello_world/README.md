@@ -1,6 +1,6 @@
 # 0x00-hello_world
 
-# Creating an enviroment variable ```$CFILE``` for testing
+# Creating an enviroment variable ```$CFILE``` for testing purposes;
 
 `Create a file main.c that follows the betty linter formatting in the working directory an example is given below`
 
