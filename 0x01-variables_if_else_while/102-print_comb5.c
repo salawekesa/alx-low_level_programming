@@ -1,37 +1,48 @@
 #include <stdio.h>
 
 /**
- * main - Program entry point
+ * main - print pairs of double digit combos
  *
- * Return: 0 indicates success
+ * Description: print pairs of double digit combos
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	int num, i, j, k;
+	int i, j, k, m;
 
-	for (num = 0; num < 10; num++)
+	i = 48;
+	while (i < 58)
 	{
-		for (i = 0; i < 10; i++)
+		j = 48;
+		while (j < 58)
 		{
-			for (j = num; j < 9; j++)
+			m = j + 1;
+			k = i;
+			while (k < 58)
 			{
-				for (k = i + 1; k < 10; k++)
+				while (m < 58)
 				{
-					putchar(num + '0');
-					putchar(i + '0');
-					putchar(' ');
-					putchar(j + '0');
-					putchar(k + '0');
-					if (num == 9 && i == 8 && j == 9 && k == 9)
-						break;
-					putchar(',');
-					putchar(' ');
+					putchar(i);
+					putchar(j);
+					putchar(32);
+					putchar(k);
+					putchar(m);
+					if (i < 57 || j < 56 || k < 57 || m < 57)
+					{
+						putchar(44);
+						putchar(32);
+					}
+					m++;
 				}
-				k = 0;
+				m = 48;
+				k++;
 			}
+			j++;
 		}
+		i++;
 	}
-	putchar('\n');
+	putchar(10);
 	return (0);
 }
