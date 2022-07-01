@@ -21,7 +21,7 @@ int main(void)
 		{
 			if (done)
 				break;
-			for (j = num; j < 10; j++)
+			for (j = num; j < 9; j++)
 			{
 				if (done)
 					break;
