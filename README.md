@@ -1,5 +1,6 @@
 # C PROGRAMMING
 
+<<<<<<< HEAD
 <h2><a href=https://alx-intranet.hbtn.io/rltoken/P01aLj9BDfDUOv-y9x82Yw>For information on getting started with C</a></h2>
 
 # Getting started with Betty linter
@@ -11,3 +12,6 @@
 </h2>
 
 <h2>Task <a href=https://github.com/osala-eng/alx-low_level_programming/tree/master/0x00-hello_world>0x00 Hello world</a></h2>
+=======
+
+>>>>>>> b342ef18278fa821a47e3ccdfefbfb174300eb1b
