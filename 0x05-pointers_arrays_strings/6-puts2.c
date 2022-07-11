@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts2 - print to the stdout
+ * puts2 - print every character to the stdout
  * @str: string
  *
  * Return: void
