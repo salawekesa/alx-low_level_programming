@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * template - check for word separators
+ * template - separators
  * @c: character
  * Return: 1 True 0 False
  */
@@ -16,7 +16,7 @@ int template(char c)
 }
 
 /**
- * cap_string - capitalize each word
+ * cap_string - capitalizing of each word
  * @s: word strring
  *
  * Return: string
