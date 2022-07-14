@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strncat - Entry point
+ * _strncat - Concatination given entry point
  * @dest: char pinter
  * @src: char pointer
  * @n: integer
