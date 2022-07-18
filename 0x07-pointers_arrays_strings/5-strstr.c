@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strstr - locate and return pointer to first
+ * _strstr - locating a and return pointer to first
  * occurence of substring
  *
  * @haystack: string to search
