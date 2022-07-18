@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memcpy - append n bytes of memory with a constant value
+ * _memcpy - appending n bytes of memory with a constant value
  * @dest: pointer to memory area
  * @src: pointer to a memory area
  * @n: number of bytes
