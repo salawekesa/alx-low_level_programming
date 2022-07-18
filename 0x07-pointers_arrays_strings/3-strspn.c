@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn - return length of string that matches values
+ * _strspn - returning length of string that matches values
  * given consistently
  * @s: string to search
  * @accept: target matches
