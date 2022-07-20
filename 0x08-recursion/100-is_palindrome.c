@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen - get string length
+ * _strlen - getting the lenght of string
  * @s: string
  * Return: Length
  */
@@ -15,7 +15,7 @@ int _strlen(char *s)
 }
 
 /**
- * split_n_mirror - compare 1st half to the mirror of 2nd half
+ * split_n_mirror - comparing 1st half to the mirror of 2nd half
  * @s_head: 1st half of string
  * @s_tail: 2nd half of string
  *
@@ -34,7 +34,7 @@ int split_n_mirror(char *s_head, char *s_tail)
 }
 
 /**
- * is_palindrome - check if a string is palindrome
+ * is_palindrome - checking if a string is palindrome
  * @s: string
  *
  * Return: SUCCESS ? 1 : 0
