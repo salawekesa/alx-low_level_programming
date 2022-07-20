@@ -3,7 +3,7 @@
 #define WILD '*'
 
 /**
- * match_after_wild - check if a substring after wildcard matches s1
+ * match_after_wild - checking  if a substring after wildcard matches s1
  * @s1: string 1
  * @s2: string 2
  * @post_wild: placeholder for position right after wildcard
@@ -27,7 +27,7 @@ int match_after_wild(char *s1, char *s2, char *post_wild)
 }
 
 /**
- * wildcmp - compare if string with wildcard mattches
+ * wildcmp - comparing whether string matches with wildcard
  * @s1: string 1
  * @s2: string 2
  * Return: SUCCESS ? 1 : 0
