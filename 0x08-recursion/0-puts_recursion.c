@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts_recursion - print a string using recursion
+ * _puts_recursion - printing a string by using recursion
  * @s: String to print
  *
  * Return: void
