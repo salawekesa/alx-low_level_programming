@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _this_is_prime - recurcively if a number is prime
+ * _this_is_prime - Finding prime numbers through recursion
  * @n: integer n
  * @_is_divisor: check if is a divisor
  *
