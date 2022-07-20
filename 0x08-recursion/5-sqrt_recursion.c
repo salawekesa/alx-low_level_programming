@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _this_is_root - recurcively obtain root
+ * _this_is_root - Finding root through recurssion
  * @n: integer n
  * @is_root: check if done
  *
