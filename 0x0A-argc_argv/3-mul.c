@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * @argc: no of params
+ * @argc: no of parameters
  * @argv: array of params
  *
  * Return: SUCCESS ? 0 : 1
