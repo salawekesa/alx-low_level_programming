@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * @argc: number of params
+ * @argc: no of params
  * @argv: array of params
  *
  * Return: SUCCESS ? 0 : 1
@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 
 	return (0);
 
-ERROR:	printf("Error\n");
+ERROR:
+	printf("Error\n");
 	return (1);
 }
