@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * @argc: number of params
+ * @argc: no of params
  * @argv: array of params
  *
  * Return: SUCCESS ? 0 : 1
@@ -27,9 +27,11 @@ int main(int argc, char *argv[])
 		cents %= _coins[i];
 	}
 
-DONE:	printf("%d\n", coins);
+DONE:
+	printf("%d\n", coins);
 	return (0);
 
-ERROR:	printf("Error\n");
+ERROR:
+	printf("Error\n");
 	return (1);
 }
