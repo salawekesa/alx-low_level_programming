@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * argstostr - concatenate all arguments given
+ * argstostr - concatenatenation of all arguments given
  * @ac: number of arguments
  * @av: char pointer
  *
@@ -32,7 +32,7 @@ char *argstostr(int ac, char **av)
 
 	for (i = 0; i < ac; i++)
 	{
-		for (j = 0; j < (int) strlen(av[i]); j++)
+		for (j = 0; j < (int)strlen(av[i]); j++)
 			s[k++] = av[i][j];
 
 		s[k++] = '\n';

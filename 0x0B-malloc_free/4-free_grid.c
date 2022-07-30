@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * free_grid - free a 2 dim array
+ * free_grid - free the two dimensional array
  * previously created by your alloc_grid function
  *
- * @grid: pointer to 2D array
- * @height: height of array
+ * @grid: pointer to a 2D array
+ * @height: height of an array
  *
  * Return: void
  */

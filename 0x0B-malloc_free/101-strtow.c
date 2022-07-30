@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strtow - split string into words
+ * strtow - splitting a string into words
  * @str: string
  *
  * Return: string pointer or NULL
