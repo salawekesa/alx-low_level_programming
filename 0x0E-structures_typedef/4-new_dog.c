@@ -1,7 +1,7 @@
 #include "dog.h"
 
 /**
- * _strdup - duplicate a string
+ * _strdup - duplicating a string
  * @str: string
  *
  * Return: pointer to newely allocated space in memory
