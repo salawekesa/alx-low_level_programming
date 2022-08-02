@@ -1,7 +1,7 @@
 #include "dog.h"
 
 /**
- * free_dog - free memory of struct dog
+ * free_dog - frees memory of struct the dog
  * @d: dog loc
  *
  * Return: void
