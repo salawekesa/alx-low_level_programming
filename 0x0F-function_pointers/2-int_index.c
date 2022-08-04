@@ -1,7 +1,7 @@
 #include "function_pointers.h"
 
 /**
- * int_index - search for an integer
+ * int_index - searching for an integer
  * @array: array
  * @size: size
  * @cmp: func pointer
