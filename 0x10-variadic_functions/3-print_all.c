@@ -1,7 +1,7 @@
 #include "variadic_functions.h"
 
 /**
- * print_char - prints char
+ * print_char - printing charcters
  * @params: params
  */
 void print_char(va_list params)
