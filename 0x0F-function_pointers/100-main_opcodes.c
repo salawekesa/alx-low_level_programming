@@ -1,7 +1,7 @@
 #include "function_pointers.h"
 
 /**
- * main - Prints the opcodes of itself.
+ * main - Printing the opcodes of itself.
  * @argc: The number of arguments supplied to the program.
  * @argv: An array of pointers to the arguments.
  *
