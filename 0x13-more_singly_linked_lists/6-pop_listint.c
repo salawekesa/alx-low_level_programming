@@ -2,7 +2,7 @@
 
 /**
  * pop_listint - pop of a list
- * 
+ *
  * @head: list
  *
  * Return: head's node data
@@ -10,18 +10,19 @@
 
 int pop_listint(listint_t **head)
 {
-	int data;
-	listint_t *temp;
+        int data;
+        listint_t *temp;
 
-	if (!*head)
-		return (0);
+        if (!*head)
+                return (0);
 
-	temp = *head;
+        temp = *head;
 
-	data = temp->n;
+        data = temp->n;
 
-	*head = temp->next;
-	free(temp);
+        *head = temp->next;
+        free(temp);
 
-	return (data);
+        return (data);
 }
+
