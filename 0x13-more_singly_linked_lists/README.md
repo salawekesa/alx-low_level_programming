@@ -5,7 +5,7 @@ _Insertion_ and _deletion_ is easier than in arrays.
 
 ## Steps in creaating single linked list
 
-''' 
+>k
 * create a template for the node
 * Declare the head nd nodes to be used
 * Allocate memmory to the  nodes
