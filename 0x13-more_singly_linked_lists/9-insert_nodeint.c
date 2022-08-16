@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * insert_nodeint_at_index - get node at given index
+ * insert_nodeint_at_index - getting the node at given index
  * @head: list
  * @idx: index
  * @n: data to insert
