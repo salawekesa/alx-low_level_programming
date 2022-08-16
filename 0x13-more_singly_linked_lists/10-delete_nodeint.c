@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * delete_nodeint_at_index - delete a node index
+ * delete_nodeint_at_index - deleting a node index
  * @head: list
  * @index: index
  * Return: SUCCESS ? 1 : -1
