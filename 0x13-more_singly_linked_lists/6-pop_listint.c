@@ -1,7 +1,8 @@
 #include "lists.h"
 
 /**
- * pop_listint - pop list
+ * pop_listint - pop of a list
+ * 
  * @head: list
  *
  * Return: head's node data
