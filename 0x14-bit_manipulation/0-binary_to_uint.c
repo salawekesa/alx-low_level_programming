@@ -1,7 +1,7 @@
 #include "common.h"
 
 /**
- * binary_to_uint - convert binary to int
+ * binary_to_uint - converting binary to int
  * @b: binary string
  *
  * Return: Number
