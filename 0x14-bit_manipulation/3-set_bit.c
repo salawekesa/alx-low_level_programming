@@ -1,7 +1,7 @@
 #include "common.h"
 
 /**
- * set_bit - set bit at given index
+ * set_bit - setting bit at given index
  * @n: number
  * @index: index
  * Return: SUCCESS ? 1 : -1
