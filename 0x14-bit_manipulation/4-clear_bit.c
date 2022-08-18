@@ -1,7 +1,7 @@
 #include "common.h"
 
 /**
- * clear_bit - clear bit at given index
+ * clear_bit - clearing bit at given index
  * @n: number
  * @index: index
  * Return: SUCCESS ? 1 : -1
