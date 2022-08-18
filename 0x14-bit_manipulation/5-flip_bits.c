@@ -1,7 +1,7 @@
 #include "common.h"
 
 /**
- * flip_bits - det no of bits to flip to get to
+ * flip_bits - determining no of bits to flip to get to
  * next no
  * @n: number 1
  * @m: number 2
