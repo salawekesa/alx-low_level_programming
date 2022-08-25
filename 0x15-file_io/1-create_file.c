@@ -1,7 +1,7 @@
 #include "file.h"
 
 /**
- * create_file - create a file
+ * create_file - creating a file
  * @filename: filename
  * @text_content: data
  * Return: Success ? 1 : -1
